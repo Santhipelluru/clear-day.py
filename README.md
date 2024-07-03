@@ -1,2 +1,3 @@
-# clear-day.py
-print the clear day
+ 
+a,b=input().split()
+print(7-(int (a) + int (b)))
